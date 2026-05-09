@@ -48,5 +48,6 @@ This repository showcases a selection of my projects:
 ## Contact
 
 - Email: mohamedrayenakaichi@gmail.com  
+- Linkedin : https://www.linkedin.com/in/mohamed-rayen-akaichi/
 - Location: Paris / Île-de-France (open to remote EU)  
 - Looking for: 6‑month cybersecurity internship – Blue Team / SOC / GRC / Security Awareness
