@@ -43,13 +43,7 @@ This repository showcases a selection of my projects:
    - **SOC dashboard**: Metabase connected to CrowdSec's database for real-time threat visualization and KPI reporting.  
    Stack: Nginx, ModSecurity, CrowdSec, iptables, Docker, Metabase — 100% open-source.
 
-Each project folder contains a README with:
-- Objective
-- Context
-- Tools
-- Methodology
-- Results and screenshots
-- Lessons learned
+
 
 ## Contact
 
