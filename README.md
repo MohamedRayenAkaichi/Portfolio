@@ -5,7 +5,7 @@ I am a Master-level cybersecurity engineering student (CY Tech, double degree) f
 
 ## About me
 
-- 5th year (Bac+5) cybersecurity engineering student – looking for a 6‑month end-of-studies internship starting May 2026 (Paris/IDF or remote EU).
+- 5th year (Bac+5) cybersecurity engineering student – looking for a 6‑month end-of-studies internship starting June 2026 (Paris/IDF or remote EU).
 - Hands-on experience with SIEM (Wazuh/ELK), network security (firewalls, IDS/IPS), vulnerability management (CVSS), security awareness (GoPhish), and incident response basics.
 - ISC2 Certified in Cybersecurity (CC), strengthening my foundations in security principles, access control, network security, security operations, and incident response/BCDR.
 
