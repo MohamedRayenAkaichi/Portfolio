@@ -27,9 +27,6 @@
 
 Hands-on experience across the full defensive security stack: from SIEM deployment and IDS/IPS tuning to phishing simulations, CVSS-based vulnerability tracking, and multi-layer web infrastructure hardening.
 
-> **Seeking:** 6-month end-of-studies internship starting **June 2026** — Blue Team / SOC / GRC / Security Awareness
-> **Location:** Paris / Île-de-France · open to Remote EU
-
 ---
 
 ## `$ cat about.txt`
