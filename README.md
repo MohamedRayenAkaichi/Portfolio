@@ -176,9 +176,8 @@ Internet
 |---|---|
 | 📧 **Email** | [mohamedrayenakaichi@gmail.com](mailto:mohamedrayenakaichi@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/mohamed-rayen-akaichi](https://www.linkedin.com/in/mohamed-rayen-akaichi/) |
-| 📍 **Location** | Paris / Île-de-France · open to Remote EU |
-| 🎯 **Looking for** | 6-month cybersecurity internship – Blue Team / SOC / GRC / Security Awareness |
-| 📅 **Start date** | June 2026 |
+| 📍 **Location** | Tunis/Tunisie |
+
 
 ---
 
