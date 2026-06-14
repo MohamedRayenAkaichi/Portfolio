@@ -39,8 +39,7 @@ Hands-on experience across the full defensive security stack: from SIEM deployme
 | 🎓 **Degree** | Bac+5 Cybersecurity Engineering — CY Tech  |
 | 🏅 **Certification** | ISC² Certified in Cybersecurity (CC) |
 | 🌐 **Languages** | French (C1) · English (C1) · Arabic (native) |
-| 📍 **Location** | Paris / Île-de-France |
-| 📅 **Availability** | June 2026 — 6-month internship |
+| 📍 **Location** | Tunis/Tunisie |
 | 📧 **Contact** | mohamedrayenakaichi@gmail.com |
 
 ---
